@@ -1,0 +1,14 @@
+{
+  "name": "node-http",
+  "version": "1.0.0",
+  "description": "Used for integration testing on circle-ci.  Runs a simple node http server.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^0.9.0"
+  }
+}
